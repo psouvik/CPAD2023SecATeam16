@@ -27,9 +27,7 @@ class _Task_WidgetState extends State<Task_Widget> {
           boxShadow: [
             BoxShadow(
               color: Colors.grey.withOpacity(0.2),
-              spreadRadius: 5,
-              blurRadius: 7,
-              offset: Offset(0, 2),
+              
             ),
           ],
         ),
